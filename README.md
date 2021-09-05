@@ -8,7 +8,7 @@
 <h2>Tecnologias Utilizadas:</h2>
 <ul>
 	<li>Java 8</li>
-	<li>Spring Boot</li>
+	<li>JPA</li>
 	<li>lombok</li>
 	<li>Swagger</li>
 </ul>
